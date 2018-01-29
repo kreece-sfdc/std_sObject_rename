@@ -1,0 +1,77 @@
+[
+    [
+        "/Users/kreece/sfdx/std_sObject_rename/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/std_sObject_rename/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517225806522,
+            "changeTime": 1517225806522,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/std_sObject_rename/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/std_sObject_rename/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517225806522,
+            "changeTime": 1517225806522,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/std_sObject_rename/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/std_sObject_rename/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517225806522,
+            "changeTime": 1517225806522,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/std_sObject_rename/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/std_sObject_rename/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1517225806522,
+            "changeTime": 1517225806522,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/std_sObject_rename",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/std_sObject_rename",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1517226674232,
+            "changeTime": 1517226674232,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
